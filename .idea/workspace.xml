@@ -49,6 +49,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aquir\OneDrive\Documents\GitHub\Customer-Relationship-Management\out\production\Customer Relationship Management" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -89,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1598695738445</updated>
       <workItem from="1598695739787" duration="2853000" />
-      <workItem from="1632239678931" duration="600000" />
+      <workItem from="1632239678931" duration="996000" />
     </task>
     <servers />
   </component>
